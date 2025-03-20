@@ -52,7 +52,7 @@ GitHub: Version control and project sharing
 
 📊 Dashboard Preview
 
-<a href="https://github.com/Jaswinder-spec/salary_dataset/blob/main/Screenshot%202025-03-20%20165441.png">View Dashboard</a>
+https://github.com/Jaswinder-spec/salary_dataset/blob/main/Screenshot%202025-03-20%20165441.png"
 
 
 🚀 How to Use
@@ -72,5 +72,7 @@ Add more dynamic filters (e.g., Salary Ranges, Industry Types)
 Improve UI/UX with a refined color scheme
 
 Optimize data model for real-time updates
- dashboard "C:\Users\jaswi\Pictures\Screenshots\Screenshot 2025-03-20 174756.png"
+
+ 
+ 
 
