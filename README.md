@@ -37,7 +37,7 @@ Data pre-cleaned in SQL Server to remove null, negative, or empty values
 
 Pre-aggregated summary tables to enhance Power BI performance
 
-📂 Dataset - <a href="https://www.kaggle.com/datasets/mohithsairamreddy/salary-data">salary data </a>
+📂 Dataset 
 - <a href="https://github.com/Jaswinder-spec/salary_dataset/blob/main/salary_data%20sql%20project.zip">salary data </a>
 
 The dataset used in this project is sourced from Kaggle: Salary Data. It includes salary details along with job titles, education levels, and gender distribution.
