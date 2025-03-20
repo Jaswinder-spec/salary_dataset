@@ -1,4 +1,4 @@
-# salary_dataset
+# Salary_Dataset
 Salary Data Dashboard - Power BI & SQL
 
 📌 Project Overview
@@ -37,7 +37,7 @@ Data pre-cleaned in SQL Server to remove null, negative, or empty values
 
 Pre-aggregated summary tables to enhance Power BI performance
 
-📂 Dataset
+📂 Dataset - <a href="https://www.kaggle.com/datasets/mohithsairamreddy/salary-data">salary data </a>
 
 The dataset used in this project is sourced from Kaggle: Salary Data. It includes salary details along with job titles, education levels, and gender distribution.
 
