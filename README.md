@@ -52,7 +52,7 @@ GitHub: Version control and project sharing
 
 📊 Dashboard Preview
 
-[(https://github.com/Jaswinder-spec/salary_dataset/blob/main/Screenshot%202025-03-20%20174756.png)
+https://github.com/Jaswinder-spec/salary_dataset/blob/main/Screenshot%202025-03-20%20174756.png)
 
 
 🚀 How to Use
