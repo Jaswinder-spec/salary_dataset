@@ -57,17 +57,13 @@ GitHub: Version control and project sharing
 
 🚀 How to Use
 
-Clone this repository:
-
-Open the Power BI (.pbix) file in Power BI Desktop.
-
-If using SQL Server, restore the dataset and update Power BI connections.
-
+Download the file and open it in sql server In my case I used ssms then look for bad data and remove it 
+Run other queries according to the objective after that run direct query in Power Bi for smooth flow
 Explore interactive visualizations and insights.
 
 📌 Next Steps
 
-Add more dynamic filters (e.g., Salary Ranges, Industry Types)
+Add more dynamic filters
 
 Improve UI/UX with a refined color scheme
 
