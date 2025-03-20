@@ -52,8 +52,8 @@ GitHub: Version control and project sharing
 
 📊 Dashboard Preview
 
-<a href="https://github.com/Jaswinder-spec/salary_dataset/blob/main/Screenshot%202025-03-20%20165441.png
-"C:\Users\jaswi\Pictures\Screenshots\Screenshot 2025-03-20 165409.png"
+<a href="https://github.com/Jaswinder-spec/salary_dataset/blob/main/Screenshot%202025-03-20%20165441.png">View Dashboard</a>
+
 
 🚀 How to Use
 
